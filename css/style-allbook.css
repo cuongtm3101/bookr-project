@@ -101,8 +101,6 @@ form.search-form input#submit:hover {
 }
 
 .books-container .books-detail .books-row {
-    display: flex;
-    flex-direction: row;
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }
